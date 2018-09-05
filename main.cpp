@@ -29,5 +29,6 @@ int main(int argc, char **argv)
     cout << sub(42, 1) << '\n';
     cout << mul(2, 3) << '\n';
     cout << div(10, 5) << '\n';
+    // todo
 	return 0;
 }
